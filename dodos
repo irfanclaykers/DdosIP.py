@@ -11,7 +11,7 @@ print "
 ######### ##     ## ##  #### ##             ##  ##     ##       ##    
 ##     ## ##     ## ##   ### ##       ##    ##  ##     ##       ##    
 ##     ## ##     ## ##    ## ########  ######  ####    ##       ##   
-- Strong/Efficient Modernized TCP/UDP DDoS Attack Script Created By: MR.GAMING
+- Strong/Efficient Modernized TCP/UDP DDoS Attack Script Created By: Irfan claykers
 - Works As A Strong DDoS Attack Script On Both Websites As Well As Routers.\n";
 print "\n===============================";
 print "\n[~] Enter TargetIP: "; # Set Target IP
